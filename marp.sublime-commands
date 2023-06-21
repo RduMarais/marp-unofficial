@@ -1,0 +1,7 @@
+[
+	{"caption":"PDF","command":"marppdf"},
+	{"caption":"load json config file","command":"marpload"},
+	{"caption":"test","command":"marptest"},
+	{"caption":"start HTML server","command":"marpstarthtml"},
+	{"caption":"stop HTML server","command":"marpstophtml"},
+]
