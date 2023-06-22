@@ -1,0 +1,9 @@
+{
+    "platforms": [
+        "*"
+    ],
+    "url": "https://github.com/RduMarais/marp-unofficial",
+    "description": "Export Markdown to PDF with marp",
+    "sublime_text": "*",
+    "version": "0.0.1"
+}
