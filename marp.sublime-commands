@@ -1,7 +1,7 @@
 [
-	{"caption":"PDF","command":"marppdf"},
-	{"caption":"load json config file","command":"marpload"},
-	{"caption":"test","command":"marptest"},
-	{"caption":"start HTML server","command":"marpstarthtml"},
-	{"caption":"stop HTML server","command":"marpstophtml"},
+	{"caption":"Marp : export PDF","command":"marp_pdf"},
+	{"caption":"Marp : load json config file","command":"marp_load"},
+	{"caption":"Marp : test","command":"marp_test"},
+	{"caption":"Marp : start HTML server","command":"marp_start_html"},
+	{"caption":"Marp : stop HTML server","command":"marp_stop_html"},
 ]
